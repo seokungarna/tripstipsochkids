@@ -26,15 +26,11 @@ Det finns mycket att göra och se i Auckland och vi har gått runt rätt mycket 
 
 ![alt text](/images/P1030830.jpg "Mount Victoria, Devonport, Auckland")
 
-![alt text](/images/P1030866.jpg "Utsikt från Sky Tower, Auckland")
-
 Om man vill se ut över hela Auckland kan man åka upp i Sky Tower där har man verkligen utsikt över hela stan och öarna runt omkring. Översta våningen är 222 meter från marken och där finns ett café och två restauranger (en av dem roterar och svänger 360 grader varje timme) om man vill äta middag eller lunch där uppe.
 
 Auckland Museum är verkligen ett museum i vår smak och är en bra aktivitet att göra med barn. Det finns massor av intressanta saker där om Nya Zeelands människor, natur, djur, vulkaner och jordbävningar.
 
 Auckland har mycket gröna fina parker och områden där man kan ta det lugnt och låta barnen springa runt. Ett annat ställe som är värt ett besök är Mount Eden där man kan gå upp till Mount Edens topp vilket också är en gammal vulkan där har man utsikt över de grönskande kullarna runt omkring och man kan även äta lunch i byn där. Vi gick hela vägen ifrån city dit vilket kanske är lite långt och om man inte vill gå kan man ta bil, buss eller taxi.
-
-![alt text](/images/P1080289.jpg "Blommor i Auckland")
 
 ![alt text](/images/P1080367.jpg "Park i Auckland")
 
@@ -60,8 +56,6 @@ Rotoroua är en stad som är känd för sina heta källor och gejsrar. Staden li
 
 En annan rolig sak att göra är att besöka en uppbyggd Maori by på kvällen. Det behöver man antagligen boka via någon tur. På den tur vi gjorde kom dem och hämtade upp oss med buss och körde oss till byn. Där får man se en Maori show och maten tillagas i den varma marken. Vi tillbringade en sådan kväll i Rainbow Springs naturpark och där fanns även redwood träd och ett Kiwi center så man kunde se kiwifåglar.
 
-![alt text](/images/P1040040.jpg "Maori show i Rotorua")
-
 ![alt text](/images/P1040150.jpg "Rotorua museum")
 
 Om man är sugen på indisk mat i Rotorua har Indian Star Restaurant väldigt god Butter Chicken. Vi åt en riktigt bra frukost på Picnic Café, det var ett jättetrevligt ställe med en lite annorlunda frukostmeny.
@@ -76,11 +70,7 @@ Craters of the Moon är geotermiskt med bubblande kratrar och ser ut som ett sto
 
 ![alt text](/images/P1080458.jpg "Craters of the Moon i Taupo")
 
-![alt text](/images/P1080499.jpg "Vår husbil i Nya Zeeland")
-
 Taupo ligger vid Lake Taupo som är den största sjön på Nya Zeeland. Sjön är från början en krater på en gammal vulkan (Taupo vulkanen). Vi körde från Taupo till Turangi som ligger på södra sidan av sjön. Turen dit var fantastisk med vackra vyer längs sjön det är ännu vackrare om man har tur med soligt väder. Vi tyckte inte att det fanns så mycket att se i staden Turangi men campingen där var bra. Det finns en flod där som man kan vandra längs och ett forellcenter om man är intresserad av fiske.
-
-![alt text](/images/P1080560.jpg "Lake Taupo")
 
 Söder om Turangi ligger Tongariro National Park och i den parken finns tre vulkaniska berg (Ruapehu, Ngauruhoe och Tongariro). Om man vill kan man vandra i det här området. Ett utav bergen hade haft ett litet utbrott bara några dagar innan vi kom dit så vi vandrade inte här men vi åkte runt dem med husbilen. Nationalparken var väldigt intressant att köra runt och man kan se de tre bergen på flera olika ställen. Vi stannade och åt lunch i husbilen vid Makatote Viaduct och det var en härlig plats med en stor viadukt, en massa höga träd och en liten flod.
 
@@ -111,10 +101,6 @@ Första dagen när vi kom till Wellington hade filmen ”The Hobbit” biopremi�
 ![alt text](/images/P1080873.jpg "Hinkfontänen på Cuba Street i Wellington")
 
 Cuba Street är en bohemisk gata som är registrerad som en historisk plats. Här kan man hitta affärer, restauranger, caféer och den coola ”hinkfontänen”. Om man gillar att handla är Old Bank Arcade ett trevligt ställe att gå och titta i. När vi var i Wellington tog vi även en tur till Kaitoke Regional Park som är platsen man spelade in scenerna för ”Rivendell” i ”Sagan om Ringen”. Där kan man gå på en liten vandring och/eller övernatta på campingen om man vill det.
-
-![alt text](/images/P1080912.jpg "Rivendell film set i Kaitoke Regional Park")
-
-![alt text](/images/P1080921.jpg "Kaitoke Regional Park")
 
 ![alt text](/images/P1080928.jpg "Kaitoke Regional Park")
 

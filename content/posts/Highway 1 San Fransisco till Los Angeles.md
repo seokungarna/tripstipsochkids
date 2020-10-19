@@ -28,8 +28,6 @@ Eftersom vi bara hade en dag i Monterey hade vi bestämt att vi ville se Montere
 
 ![alt text](/images/P1130761.jpg "Maneter på Monterey Bay Aquarium")
 
-![alt text](/images/P1130767.jpg "Maneter på Monterey Bay Aquarium")
-
 ![alt text](/images/P1130778.jpg "Akvarium på Monterey Bay Aquarium")
 
 I Monterey bodde vi på ett motell som heter Stadge Coach Lodge Monterey. Motellet hade gratis parkering, rummen var bra städade med mycket utrymme, sängarna var sköna, det tog bara några minuter att åka med bil till piren eller citykärnan och vi fick en kontinental frukost på morgonen som var helt ok och priset för rummet var också bra. Bra värde för pengarna helt enkelt!
@@ -39,8 +37,6 @@ Nästa dag skulle vi vidare mot Big Sur och då tog vi 17 mile drive från Monte
 ![alt text](/images/P1130803.jpg "Bird Rock Vista Point på 17 mile drive")
 
 ![alt text](/images/P1130829.jpg "Lone Cypress på 17 mile drive")
-
-![alt text](/images/P1130843.jpg "Ghost Tree på 17 mile drive")
 
 Carmel-By-The-Sea är en väldigt charmig liten stad med mycket vackra hus, vissa ser ut som hobbit-hus från Sagan om Ringen. Vi gick runt en del i staden och åt lunch där.
 
@@ -67,8 +63,6 @@ Efter det åkte vi vidare till Andrew Molera State Park och gick en liten hike d
 ![alt text](/images/P1130973.jpg "Blomsteräng i Andrew Molera State Park")
 
 Dagen därpå åkte vi vidare mot Morro Bay och på vägen stannade vi vid Ragged Point där man har utsikt över kusten och det finns restaurang för lunch eller fika. Vi stannade också vid Elephant Seal Vista Point en liten bit norr om San Simeon för att se det stora, lata sjöelefanterna ligga över hela stranden. Dom gör inte mycket mer än ligger där och viftar bort flugor från huvudena.
-
-![alt text](/images/P1140045.jpg "Ragged Point")
 
 ![alt text](/images/P1140086.jpg "Sjöelefanter vid Elephant Seal Vista Point")
 

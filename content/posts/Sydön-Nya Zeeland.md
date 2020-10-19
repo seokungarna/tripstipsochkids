@@ -22,8 +22,6 @@ Vi var inte så länge i Picton bara en natt så det blev ett par timmar där p�
 
 ![alt text](/images/P1090064.jpg "Vy över Picton")
 
-![alt text](/images/P1090067.jpg "Vy över vattnet runt Picton")
-
 ## Abel Tasman
 
 Det var en lång körning mellan Picton och Abel Tasman eftersom vägen dit är rätt smal och krokig. På flera ställen gick det inte så snabbt med en husbil. Det som ändå gjorde det helt ok var att det hela tiden är så mycket vackert att titta på och så är det nästan överallt på Nya Zeeland. Vi stannade vid Hawkes Lookout, det är en enkel promenad dit på ca 15 minuter från parkeringen. Vid utsiktsplatsen kan du se Riwaka Valley och ända till kustlinjen.
@@ -38,8 +36,6 @@ Vi åkte också på en tur till Wharariki Beach där man kan se en otrolig stran
 
 ![alt text](/images/P1090321.jpg "Väggmålning i Takaka")
 
-![alt text](/images/P1090350.jpg "Kaiteriteri i Abel Tasman")
-
 När vi åkte från Golden Bay tog vi en omväg till Kaiteriteri där du kan se några av de fantastiska stränderna i Abel Tasman området, stränder med guldfärgad sand, klarblått vatten och fantastisk natur runt omkring.
 
 ## Nelson
@@ -49,8 +45,6 @@ Nelson sägs vara det soligaste regionen i Nya Zeeland och där finns långa san
 ![alt text](/images/P1090405.jpg "Solnedgång över Nelson")
 
 ![alt text](/images/P1090422.jpg "Wither Hills vingård i Blenheim")
-
-![alt text](/images/P1090446.jpg "Wither Hills vingård i Blenheim")
 
 Det finns väldigt mycket vingårdar på Nya Zeeland och många utav dem ligger i området Marlborough som är i norr på Sydön, omkring Nelson och Blenheim. På vägen ifrån Nelson stannade vi på en vingård där vi provad några viner och åt lunch, vingården hette Wither Hills och ligger nära Blenheim. Det var inga problem att göra det med barn med sig, det fanns till och med en barnmeny på restaurangen.
 
@@ -66,8 +60,6 @@ Vi tyckte inte att den lilla staden Kaikoura var så mycket att se men naturen r
 
 ![alt text](/images/P1090599.jpg "Havet runt halvön i Kaikoura")
 
-![alt text](/images/P1090652.jpg "Vy över Kaikoura")
-
 Alpine-pacific Motels and Holiday Park där vi bodde är bra för familjer. Dom hade en uppvärmd pool, bubbelpool, BBQ område, stor studsmatta med säkerhetsnät, bra kök och badrum.
 
 ## Christchurch
@@ -76,8 +68,6 @@ När vi reste med barn i Nya Zeeland åkte vi bara till Christchurch för att ta
 
 ![alt text](/images/P1040510.jpg "Katedralen i Christchurch med klocktorn")
 
-![alt text](/images/P1040512.jpg "Spårvagn i Christchurch")
-
 ## Queenstown
 
 Queenstown är en mysig liten stad i söder på Sydön. Det ligger precis vid en vacker sjö med bergskedjan The Remarkables bredvid. Det går en halvö ut i sjön Lake Wakatipu där botaniska trädgården ligger med väldigt stora och vackra plantor och träd. Det är ett trevligt ställe att gå en promenad eller ut och springa. Det finns även en skateboardpark där och en isrink om man är där på vintern och vill åka skridskor.
@@ -85,8 +75,6 @@ Queenstown är en mysig liten stad i söder på Sydön. Det ligger precis vid en
 ![alt text](/images/P1040177.jpg "Träd i botaniska trädgården i Queenstown")
 
 Både i och utanför Queenstown finns det massor av olika aktiviteter och utflykter man kan göra. Vi åkte på en tur över Skipper Canyon med en fyrhjulsdriven bil och en van chaufför, det var lite läskigt ibland men helt klart värt det! Utsikten var fantastisk! På slutet av turen åkte vi en tur med motorbåt på Shotover River.
-
-![alt text](/images/P1040325.jpg "Utsikt över Skipper Canyon")
 
 ![alt text](/images/P1040340.jpg "Båttur på Shotover River")
 
@@ -127,8 +115,6 @@ Dagen efter åkte vi vidare upp till Greymouth och på vägen gjorde tog vi en o
 ## TranzAlpine train
 
 TranzAlpine åker genom södra alperna mellan Greymouth och Christchurch. Det är verkligen en resa med vackra vyer det är stora slätter, berg, skog och floder med turkosblått vatten. Resan tar omkring 4 timmar och 30 minuter och det är det verkligen värt. Det finns öppna vagnar där man kan gå ut och titta och ta kort om man vill.
-
-![alt text](/images/P1040479.jpg "Berg längs TranzAlpine")
 
 ![alt text](/images/P1040488.jpg "Utsikt från tåget")
 
