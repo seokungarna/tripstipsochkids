@@ -8,8 +8,7 @@ meta:
   title: Resa med barn
 ---
 
-Att resa med barn är inte alltid enkelt men det lika mycket ett minne och upplevelse som när man reser själv. Jag och min man älskar att resa och vi reste en hel del både långt och kort innan vi fick våra barn och tillsammans med våra barn. Att resa var något vi absolut inte ville sluta göra när vi fick barn och nog för att det ibland varit jobbigt men det funkar helt klart att göra de flesta resor tillsammans med sina barn!
-Här delar jag med oss av våra resor, tips och råd. Jag har använt mig utav våra egna fotografier från resorna och eftersom vi gjort många resor innan barnen har jag även valt att skriva en del om det. Vi försöker alltid att utgå ifrån vad vi vill göra och se på ett ställe och sen försöker vi att anpassa det med saker som barnen också vill göra och gillar. 
+Att resa med barn är inte alltid enkelt men det lika mycket ett minne och upplevelse som när man reser själv. Här delar jag med oss av våra resor, tips och råd. Jag har använt mig utav våra egna fotografier från resorna till 99% och eftersom vi gjort många resor innan barnen har jag även valt att inkludera en del om det ocksås. Vi försöker alltid att utgå ifrån vad vi vill göra och se på ett ställe och sen försöker vi att anpassa det med saker som barnen också vill göra och gillar. 
 
 ## Planera resan
 
