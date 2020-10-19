@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: resa-med-barn
 title: Resa med barn
-featuredImage: '../../images/IMG_0414.jpg'
+featuredImage: '../../images/IMG_0414.JPG'
 meta:
   description: Sida om resa med barn
   title: Resa med barn
