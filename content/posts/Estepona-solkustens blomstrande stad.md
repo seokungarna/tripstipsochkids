@@ -4,7 +4,7 @@ title: Estepona-solkustens blomstrande stad med barn
 slug: destinationer/spanien/estepona-solkustens-blomstrande-stad
 status: Published
 date: '2018-05-25'
-featuredImage: '../../images/P1090822.jpg'
+featuredImage: '../../images/DSC_0577.jpg'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
