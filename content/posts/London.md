@@ -4,7 +4,7 @@ title: London
 slug: destinationer/england/london
 status: Published
 date: '2018-05-25'
-featuredImage: '../../images/DSC02668.jpg'
+featuredImage: '../../images/DSC02668.JPG'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
@@ -25,19 +25,19 @@ Det finns så mycket fina parker i London som är härligt att vandra runt i fö
 
 Hyde Park är en enorm park med gräsmattor som man skulle kunna tillbringa en hel dag i. Det finns en sjö, lekplatser lite här och där. En bra lekplats i Hyde Park är Diana Memorial Playground sen är det ofta evenemang av olika slag i Hyde Park som kan vara roligt. Hyde Park går ihop med Kensington Palace och där kan man också vandra runt och se på blomsterarrangemang, dricka afternoon tea i Orangeriet eller bara titta på slottet. 
 
-![alt text](/images/P1030431.jpg "Kensington Palace i London")
+![alt text](/images/P1030431.JPG "Kensington Palace i London")
 
 Regents Park är en fantastisk park att gå och titta på blommor av olika slag i, där finns också anlagda sjöar, London Zoo och stora gräsmattor att leka på. Ifrån Regents Park kan man fortsätta till Primrose Hill, där är det stora gräsmattor och väldigt fin utsikt över London uppe på kullen!
 
-![alt text](/images/DSC00040.jpg "Rabatter i Regents Park")
+![alt text](/images/DSC00040.JPG "Rabatter i Regents Park")
 
-![alt text](/images/DSC02481.jpg "Bro i Regents Park")
+![alt text](/images/DSC02481.JPG "Bro i Regents Park")
 
 Sen är Kew Gardens underbart att gå omkring i men det ligger en bit ut med tåg. Det är mysigt i Kew och i Kew Gardens kan man gå i en hel dag och om man vill. Det går även båt dit ifrån Embankment eller till Embankment från Kew Gardens. Det är väldigt trevligt att ta båten om det är vackert väder.
 
-![alt text](/images/DSC02580.jpg "Växthus i Kew Gardens")
+![alt text](/images/DSC02580.JPG "Växthus i Kew Gardens")
 
-![alt text](/images/DSC02595.jpg "Näckrosblad i Kew Gardens")
+![alt text](/images/DSC02595.JPG "Näckrosblad i Kew Gardens")
 
 ## Shopping med barn
 
@@ -51,15 +51,15 @@ Det finns massor av museér av olika slag i London. Vi har besökt Natural Histo
 
 Buckingham Palace brukar man se väldigt bra ifrån St James Park och några månader per år är det öppet för besök. Vi var inne i Buckingham Palace med bebis i sele och ett barn på nästan 3 år, det var rätt jobbigt och vi gick med hjärtat i halsgropen. Det är mycket fina och dyra saker där och en 3-åring är inte alls pålitlig så jag skulle nog rekommendera ett sådant besök när barnen är lite större. I närheten av Buckingham Palace ligger också Westminster och Big Ben.
 
-![alt text](/images/DSC02668.jpg "Westminister i London")
+![alt text](/images/DSC02668.JPG "Westminister i London")
 
-![alt text](/images/P1120792.jpg "Tower Bridge i London")
+![alt text](/images/P1120792.JPG "Tower Bridge i London")
 
 Towern har vi fortfarande inte besökt med barn men har tänkt göra det när dom är lite äldre. Där emot har vi gått utanför och tittat på borgen och gått över Tower Bridge som är en imponerande bro.
 
 Emirates Air Line Cabel Car kan man åka om man vill ha utsikt och åka linbana över Themsen. Linbanan går från Greenwich till Royal Docks. Det är verkligen ett äventyr att göra med barnen och man är högt upp, våra barn tyckte nog att det var lite läskigt men häftigt! Om man ändå tagit sig till Greenwich kan man gå runt där en stund. Det är mysigt och fint i Greenwich där finns ett observartorie, Cutty Sark, Nollmeridianen och Greenwich Market.
 
-![alt text](/images/DSC00084.jpg "Cutty Sark i London")
+![alt text](/images/DSC00084.JPG "Cutty Sark i London")
 
 Madame Tussauds Vaxkabinett är det många som tycker är roligt att besöka. Sen är det ju många områden i London som är värda ett besök bara för att dom är mysiga att gå runt i som Camden, Notting Hill, Chelsea och området vid Temple. Tempelriddarna höll till i Temple förr och där finns Temple Church och Middel Temple. Covent Garden är också ett trevligt ställe att gå runt i. Det finns mycket restauranger där och många affärer runt omkring. En bit i från Covent Garden ligger Leicester Square, China Town och Trafalgar Square.
 

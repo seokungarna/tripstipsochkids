@@ -34,8 +34,6 @@ Gamla stan i Estepona är härlig att gå runt i! Det är smala gator mellan vit
 
 ![alt text](/images/DSC_0681.jpg "Gata i Estepona")
 
-![alt text](/images/DSC_4238.jpg "Vacker boganville i Estepona")
-
 Om man är sugen på snabbmat eller hämtmat finns två Burger King i Estepona och Domino’s har bra pizza.  Mr Wok som ligger i början på Estepona har en stor asiatisk buffé för dom som gillar det. 
 
 Det finns andra saker än sol och bad att göra för barn i Estepona också. Vill man bada badhus kan man gå till Deportivo Supera, tänk på att i spanska badhus behöver man oftast ha badmössa. Det finns flera lekparker som Parque del Calvario, Parque de la Constitucion, Parque Huerta Nueva. Vid Estadio Municipal kan man åka rullskridskor, skateboard, cykla, sparkcykel och det finns även en skateboard och cykelbana vid Calle Cristóbal Ruis Mendez. Uppe i industriområdet finns leklandet Pequeland och nu även nyöppnade Super Jump där man kan hoppa studsmatta. 
@@ -48,7 +46,7 @@ En bit utanför Estepona stad i Cancelada ligger Mundo Mania och även Kidz King
 
 Andra trevliga utflykter man kan göra är att åka upp på Sierra Bermeja som är berget vid Estepona. Det är en fantastisk utsikt och högst där uppe finns en liten restaurang också. Andra utflyktsmål runtomkring som kan vara roliga för barn är djurparken Selwo, Hipica Park i Sotogrande där kan man åka linbana, skjuta pilbåge, rida mm, åk till den vita byn Casares och titta om ni ser de stora gamarna uppe i himlen, Gibraltar för att åka upp på toppen i linbana och se aporna och den fantastiska utsikten, den vackra staden Ronda, Puerto Banus hamn med de stora lyxiga båtarna.
 
-![alt text](/images/DSC_1612.jpg "Viadukten i Ronda")
+![alt text](/images/DSC_1617.jpg "Viadukten i Ronda")
 
 ![alt text](/images/DSC_1628.jpg "Utsikt från Ronda")
 
