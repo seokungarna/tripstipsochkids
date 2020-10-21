@@ -2,6 +2,6 @@
 template: BlogIndex
 title: England
 subtitle: ''
-featuredImage: '../../images/towern.jpg'
+featuredImage: '../../images/DSC02666.JPG'
 ---
 
