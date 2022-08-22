@@ -27,7 +27,7 @@ export const byDate = posts => {
  * @param {contentType} string
  */
 export const byCategory = (posts, title, contentType) => {
-  const isCategory = contentType === 'postCategories'
+  const isCategory = contentType === 'destinationer'
   const byCategory = post =>
     post.categories &&
     post.categories.filter(cat => cat.category === title).length
@@ -39,6 +39,7 @@ export const BlogIndexTemplate = ({
   title,
   subtitle,
   featuredImage,
+  body,
   posts = [],
   postCategories = [],
   enableSearch = true,
@@ -76,7 +77,7 @@ export const BlogIndexTemplate = ({
               </div>
             </section>
           )}
-
+        
           {!!posts.length && (
             <section className="section">
               <div className="container">
@@ -158,7 +159,7 @@ export const pageQuery = graphql`
       }
     }
     postCategories: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "postCategories" } } }
+      filter: { fields: { contentType: { eq: "destinationer" } } }
       sort: { order: ASC, fields: [frontmatter___title] }
     ) {
       edges {

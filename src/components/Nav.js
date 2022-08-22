@@ -29,6 +29,7 @@ export class Navigation extends Component {
     })
 
   render() {
+    console.log(this.props);
     const { active } = this.state,
       { subNav } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
@@ -62,7 +63,7 @@ export class Navigation extends Component {
                 className={`NavLink Nav--GroupParent ${
                   this.props.location.pathname.includes('posts') ||
                   this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
+                  this.props.location.pathname.includes('postCategories')
                     ? 'active'
                     : ''
                 }`}
@@ -73,7 +74,28 @@ export class Navigation extends Component {
                   <NavLink to="/destinationer/" className="Nav--GroupLink">
                     Alla Destinationer
                   </NavLink>
-                  {subNav.posts.map((link, index) => (
+                  <NavLink 
+                  to="/destinationer/australien" className="Nav--GroupLink">
+                    Australien
+                    </NavLink>
+                    <NavLink 
+                  to="/destinationer/england" className="Nav--GroupLink">
+                    England
+                    </NavLink>
+                    <NavLink 
+                  to="/destinationer/nya-zeeland" className="Nav--GroupLink">
+                   Nya Zeeland
+                    </NavLink>
+                    <NavLink 
+                  to="/destinationer/spanien" className="Nav--GroupLink">
+                   Spanien
+                    </NavLink>
+                    <NavLink 
+                  to="/destinationer/usa" className="Nav--GroupLink">
+                   USA
+                    </NavLink>
+                  {/* {subNav.posts.map((link, index) => (
+                  
                     <NavLink
                       to={link.slug}
                       key={'posts-subnav-link-' + index}
@@ -81,7 +103,7 @@ export class Navigation extends Component {
                     >
                       {link.title}
                     </NavLink>
-                  ))}
+                  ))} */}
                 </div>
               </span>
             </div>
