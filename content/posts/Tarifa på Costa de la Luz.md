@@ -4,7 +4,7 @@ title: Tarifa på Costa de la Luz
 slug: destinationer/spanien/tarifa-pa-costa-de-la-luz
 status: Published
 date: '2022-08-19'
-featuredImage: '../../images/DSC_0577.jpg'
+featuredImage: '../../images/IMG_20220702_123359.jpg'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
@@ -20,7 +20,7 @@ meta:
 
  ![alt text](/images/IMG_20220702_123359.jpg "Playa Valdevaqueros")
 
- Tarifa och stränderna runt där går det utmärkt att åka till över dagen om man är på semester uppe vid Costa del Sol, det tar drygt en timme från t ex Estepona ner till Tarifa. Vi har åkt dit både över dagen men också och tältat där dom ha “glamping”, det är alltså stora lyxiga tält med tre sängar i och en liten kyl. Barnen älskar det! På campingområdet finns det också swimmingpool, liten lekpark, restaurang, bar. Det kan vara en rolig upplevelse för en natt eller två. Det finns flera olika campingar längs hela kuststräckan där, se hos [Kampaoh] (https://es.kampaoh.com/)
+ Tarifa och stränderna runt där går det utmärkt att åka till över dagen om man är på semester uppe vid Costa del Sol, det tar drygt en timme från t ex Estepona ner till Tarifa. Vi har åkt dit både över dagen men också och tältat där dom ha “glamping”, det är alltså stora lyxiga tält med tre sängar i och en liten kyl. Barnen älskar det! På campingområdet finns det också swimmingpool, liten lekpark, restaurang, bar. Det kan vara en rolig upplevelse för en natt eller två. Det finns flera olika campingar längs hela kuststräckan där, se hos [Kampaoh](https://es.kampaoh.com/)
 
 ![alt text](/images/IMG_20220703_134722.jpg "Playa Tarifa")
 
@@ -29,4 +29,4 @@ meta:
  ![alt text](/images/IMG_20220702_131000.jpg "Sanddynor i Valdevaqueros")
 
  
- För att läsa mer information om administrativa saker i Spanien läs mer på [NyiSpanien] (https://www.nyispanien.se/)
+ För att läsa mer information om administrativa saker i Spanien läs mer på [NyiSpanien](https://www.nyispanien.se/)
