@@ -44,7 +44,7 @@ En bit utanför Estepona stad i Cancelada ligger Mundo Mania och även Kidz King
 
 ![alt text](/images/DSC_3972.jpg "Den vita byn Casares")
 
-Andra trevliga utflykter man kan göra är att åka upp på Sierra Bermeja som är berget vid Estepona. Det är en fantastisk utsikt och högst där uppe finns en liten restaurang också. Andra utflyktsmål runtomkring som kan vara roliga för barn är djurparken Selwo, Hipica Park i Sotogrande där kan man åka linbana, skjuta pilbåge, rida mm, åk till den vita byn Casares och titta om ni ser de stora gamarna uppe i himlen, Gibraltar för att åka upp på toppen i linbana och se aporna och den fantastiska utsikten, den vackra staden Ronda, Puerto Banus hamn med de stora lyxiga båtarna.
+Andra trevliga utflykter man kan göra är att åka upp på Sierra Bermeja som är berget vid Estepona. Det är en fantastisk utsikt och högst där uppe finns en liten restaurang också. Andra utflyktsmål runtomkring som kan vara roliga för barn är djurparken Selwo, Hipica Park i Sotogrande där kan man åka linbana, skjuta pilbåge, rida mm, Aventura Amazonas trädtops banor och ziplines i olika nivåer beroende på hur gammal och modig du är, åk till den vita byn Casares och titta om ni ser de stora gamarna uppe i himlen, Gibraltar för att åka upp på toppen i linbana och se aporna och den fantastiska utsikten, den vackra staden Ronda, Puerto Banus hamn med de stora lyxiga båtarna.
 
 ![alt text](/images/DSC_1617.jpg "Viadukten i Ronda")
 
