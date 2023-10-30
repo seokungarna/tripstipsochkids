@@ -9,7 +9,7 @@ class PostSection extends React.Component {
     title: '',
     limit: 12,
     showLoadMore: true,
-    loadMoreTitle: 'Load More',
+    loadMoreTitle: 'Ladda fler',
     perPageLimit: 12
   }
 
