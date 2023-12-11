@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Tarifa på Costa de la Luz
+title: Mysiga Cordoba
 slug: destinationer/spanien/mysiga-cordoba
 status: Published
 date: '2023-12-11'
