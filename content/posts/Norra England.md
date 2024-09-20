@@ -4,7 +4,7 @@ title: Norra England
 slug: destinationer/england/norra-england
 status: Published
 date: '2024-09-20'
-featuredImage: '../../images/bamburghcastle.webp'
+featuredImage: '../../images/bamburghcastel.webp'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
