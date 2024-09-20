@@ -43,7 +43,7 @@ Lake District är fantastiskt vackert med höga berg, gröna dalar, sjöar och f
 
 ![alt text](/images/windermere.webp "Windermere i Lake District")
 
-England är fantastiskt vackert men man kan inte lite på vädret. Här finns mycket att se och göra för både barn och vuxna! 
+England är fantastiskt vackert men man kan inte lite på vädret. Här finns mycket att se och göra för alla åldrar!
 
 
 
