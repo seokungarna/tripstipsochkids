@@ -34,11 +34,11 @@ Gamla stan i Estepona är härlig att gå runt i! Det är smala gator mellan vit
 
 ![alt text](/images/DSC_0681.jpg "Gata i Estepona")
 
-Om man är sugen på snabbmat eller hämtmat finns två Burger King i Estepona och Domino’s har bra pizza.  Mr Wok som ligger i början på Estepona har en stor asiatisk buffé för dom som gillar det. 
+Om man är sugen på snabbmat eller hämtmat finns två Burger King i Estepona och Domino’s har bra pizza.  King Sushi som ligger i början på Avenida Litoral har en robot som serverar vilket många barn och vuxna tycker är roligt. Här betalar du ett lunch eller middags pris och kan sen äta hur mycket du vill bara du inte lämnar något på tallriken. Dom har asiatisk mat som dumplings, sushi, wok m m
 
-Det finns andra saker än sol och bad att göra för barn i Estepona också. Vill man bada badhus kan man gå till Deportivo Supera, tänk på att i spanska badhus behöver man oftast ha badmössa. Det finns flera lekparker som Parque del Calvario, Parque de la Constitucion, Parque Huerta Nueva. Vid Estadio Municipal kan man åka rullskridskor, skateboard, cykla, sparkcykel och det finns även en skateboard och cykelbana vid Calle Cristóbal Ruis Mendez. Uppe i industriområdet finns leklandet Pequeland och nu även nyöppnade Super Jump där man kan hoppa studsmatta. 
+Det finns andra saker än sol och bad att göra för barn i Estepona också. Vill man bada badhus kan man gå till Deportivo Supera, tänk på att i spanska badhus behöver man oftast ha badmössa. Det finns flera lekparker som Parque del Calvario, Parque de la Constitucion, Parque Huerta Nueva. Vid Estadio Municipal kan man åka rullskridskor, skateboard, cykla, sparkcykel och det finns även en skateboard och cykelbana vid Calle Cristóbal Ruis Mendez. Uppe i industriområdet finns Super Jump där man kan hoppa studsmatta här finns även VR Costa Del Sol. I nya centrumet Estepona Park kan finns spelmaskiner, bowling och VR. På Calle Alcalá Galiano finns Signum Escape Room. En del av dessa aktiviteter är populära och bör nog boka i förväg. 
 
-En bit utanför Estepona stad i Cancelada ligger Mundo Mania och även Kidz Kingdom som är stora inomhus lekanläggningar. Vill man att barnen ska kunna leka ute medans man själv kan ta en fika eller äta något är Los Arcos ett bra alternativ. Dom har en stor uteservering med lekdel och liten fotbollsplan för barnen. 
+En bit utanför Estepona stad i Cancelada finns Kidz Kingdom som är stora inomhus lekanläggningar för lite yngre barn. Vill man att barnen ska kunna leka ute medans man själv kan ta en fika eller äta något är Los Arcos ett bra alternativ. Dom har en stor uteservering med lekdel och liten fotbollsplan för barnen. 
 
 ![alt text](/images/DSC_0711.jpg "Gibraltar klippan i Gibraltar")
 
