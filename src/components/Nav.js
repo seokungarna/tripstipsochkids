@@ -83,6 +83,10 @@ export class Navigation extends Component {
                     England
                     </NavLink>
                     <NavLink 
+                  to="/destinationer/italien" className="Nav--GroupLink">
+                    Italien
+                    </NavLink>
+                    <NavLink 
                   to="/destinationer/nya-zeeland" className="Nav--GroupLink">
                    Nya Zeeland
                     </NavLink>

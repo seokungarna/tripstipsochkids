@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
-title: Spanien
+title: Italien
 subtitle: ''
-featuredImage: '../../images/DSC_1810.jpg'
+featuredImage: '../../images/IMG20250628111710.webp'
 ---
 
