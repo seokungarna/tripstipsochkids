@@ -50,7 +50,7 @@ Andra trevliga utflykter man kan göra är att åka upp på Sierra Bermeja som �
 
 ![alt text](/images/DSC_1628.jpg "Utsikt från Ronda")
 
-Om du är intresserad av boende i Estepona kan du få mer information på [Plats i solen](https://platsisolen.se/lagenhet-estepona)
+Om du är intresserad av boende i Estepona så har den här sidan bra tips på [lägenhet i Estepona](https://platsisolen.se/lagenhet-estepona)
 
 
 
